@@ -1,0 +1,4 @@
+[[redirects]]
+form = "/*"
+to = "homepage.html"
+status = 200
